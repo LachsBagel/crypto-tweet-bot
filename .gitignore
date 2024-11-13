@@ -1,0 +1,9 @@
+*.DS_Store
+.env
+venv
+.venv
+
+/article_summaries.json
+/content_tracking.json
+/generated_tweets.json
+/tweets_cache.json

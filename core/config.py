@@ -15,10 +15,23 @@ CLAUDE_MAX_TOKENS = 2048
 
 TARGET_USERNAMES = [
     'MorpheusAIs',
-    'ErikVoorhees',
+    'DJohnstonEC',
+    # 'RakshakTalwar',
+    # 'thejabo38',
+    # 'ErikVoorhees',
+    # 'mikeyanderson',
+    # 'ebravick',
+    # 'gatorbits_',
+    # 'lukestokes',
+    # 'ShapeShiftCOO',
+    # 'domsteil',
+    # 'kcdenman',
+    'HelloLumerin',
+    'askvenice',
+    # 'DrewAustin',
     'pmarca',
     'CryptoGodJohn',
-    'cdixon'
+    'cdixon',
 ]
 
 # API Endpoints
