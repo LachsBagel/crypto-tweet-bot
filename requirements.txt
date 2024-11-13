@@ -1,0 +1,10 @@
+fastapi>=0.104.1
+uvicorn>=0.24.0
+anthropic>=0.7.0
+python-dotenv>=1.0.0
+feedparser>=6.0.10
+requests>=2.31.0
+pytz>=2023.3
+python-dateutil>=2.8.2
+apscheduler>=3.10.1
+tweepy
